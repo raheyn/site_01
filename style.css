@@ -17,6 +17,9 @@ body, h3, a {
     height: 350px;
     display: flex;
 }
+.Aynura-img {
+    border: 5px solid black;
+}
 .footer-autor {
     color: rosybrown;
     font-size: 1.1rem;
