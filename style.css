@@ -14,7 +14,7 @@ body, h3, a {
 }
 .footer {
     background-color:wheat;
-    height: 350px;
+    height: 230px;
     display: flex;
 }
 .Aynura-img {
@@ -60,4 +60,7 @@ body, h3, a {
 }
 .no-right-margin {
     margin-right: 0;
+}
+p {
+    font-family: 'Source Sans Pro', sans-serif;
 }
