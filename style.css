@@ -19,7 +19,7 @@ body, h3, a {
 }
 .footer-autor {
     color: rosybrown;
-    font-size: 30px;
+    font-size: 1.1rem;
     margin: auto;
     text-decoration: none;
     /* transition: 0.5s; */
